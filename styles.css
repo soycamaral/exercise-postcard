@@ -7,7 +7,7 @@ body {
 }
 .postcard {
 	background: white;
-	width: 700px;
+	width: 7$00px;
 	height: 350px;
 	margin: auto;
 }
@@ -40,6 +40,6 @@ input {
 	text-align: center;
 }
 button {
-	backgroun-dcolor: grey;
+	background-color: grey;
 	padding: 10px;
 }
